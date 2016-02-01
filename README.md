@@ -4,21 +4,21 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-[**General**](#general--all-static-site-builders--generators)
+[**General**](#general--all-static-site-builders--generators) ›
 [Showcases](#showcases)  •
 [Directories / Listings](#directories--listings) •
 [Articles](#articles) •
 [Books / Booklets](#books--booklets) •
 [More](#more-bookmarks-n-links)
 //
-[**Ruby**](#ruby)
+[**Ruby**](#ruby) ›
 [Jekyll](#jekyll) •
 [Middleman](#middleman)
 //
-[**JavaScript / Node.js**](#javascript--nodejs)
+[**JavaScript / Node.js**](#javascript--nodejs) ›
 [Metalsmith](#metalsmith)
 //
-[**Go**](#go)
+[**Go**](#go) ›
 [Hugo](#hugo)
 //
 [**Events / Meetups**](#events--meetups)
