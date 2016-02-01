@@ -4,14 +4,14 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-[**General**](#general--all-static-site-builders--generators) §
+[**General**](#general--all-static-site-builders--generators) ++
 [**Ruby**](#ruby) ›
 [Jekyll](#jekyll) •
-[Middleman](#middleman) §
+[Middleman](#middleman) ++
 [**JavaScript / Node.js**](#javascript--nodejs) ›
-[Metalsmith](#metalsmith) §
+[Metalsmith](#metalsmith) ++
 [**Go**](#go) ›
-[Hugo](#hugo) §
+[Hugo](#hugo) ++
 [**Events / Meetups**](#events--meetups)
 
 
@@ -69,14 +69,14 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 [Jekyll](#jekyll) •
 [Middleman](#middleman)
 
-### Jekyll
+#### Jekyll
 
 **Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
 
 [Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#jekyll)
 
 
-### Middleman
+#### Middleman
 
 [Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#middleman)
 
@@ -85,7 +85,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 [Metalsmith](#metalsmith)
 
-### Metalsmith
+#### Metalsmith
 
 **Awesome Metalsmith** (github: [`metalsmith/awesome-metalsmith`](https://github.com/metalsmith/awesome-metalsmith))
 
@@ -96,7 +96,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 [Hugo](#hugo)
 
-### Hugo
+#### Hugo
 
 [Hugo @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#hugo)
 
