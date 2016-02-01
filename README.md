@@ -4,7 +4,7 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-[**General**](#general--all-static-site-builders--generators) ++
+[**General**](#general) ++
 [**Ruby**](#ruby) ›
 [Jekyll](#jekyll) •
 [Middleman](#middleman) ++
@@ -16,7 +16,9 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 
 
-## General • All Static Site Builders / Generators
+## General 
+
+_All Static Site Builders / Generators_
 
 [Showcases](#showcases)  •
 [Directories / Listings](#directories--listings) •
