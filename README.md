@@ -83,7 +83,9 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ## JavaScript / Node.js
 
+<!--
 [Metalsmith](#metalsmith)
+-->
 
 #### Metalsmith
 
@@ -94,7 +96,9 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ## Go
 
+<!--
 [Hugo](#hugo)
+-->
 
 #### Hugo
 
@@ -109,19 +113,15 @@ _Static Site User Groups_
 
 Europe
 
-@ Vienna, Austria › Central Europe
-
-- **Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml))
+- @ Vienna, Austria › Central Europe
+   - **Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml))
 
 America
 
-@ San Francisco, California
-
-- **Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com))
-
-@ New York City, New York
-
-- **{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic))
+- @ San Francisco, California
+   - **Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com))
+- @ New York City, New York
+   - **{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic))
 
 _Move Events_
 
