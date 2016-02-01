@@ -4,24 +4,25 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-- [**General**](#general--all-static-site-builders--generators) ›
-  [Showcases](#showcases)  •
-  [Directories / Listings](#directories--listings) •
-  [Articles](#articles) •
-  [Books / Booklets](#books--booklets) •
-  [More](#more-bookmarks-n-links)
-- [**Ruby**](#ruby) ›
-  [Jekyll](#jekyll) •
-  [Middleman](#middleman)
-- [**JavaScript / Node.js**](#javascript--nodejs) ›
-  [Metalsmith](#metalsmith)
-- [**Go**](#go) ›
-  [Hugo](#hugo)
-- [**Events / Meetups**](#events--meetups)
+[**General**](#general--all-static-site-builders--generators) §
+[**Ruby**](#ruby) ›
+[Jekyll](#jekyll) •
+[Middleman](#middleman) §
+[**JavaScript / Node.js**](#javascript--nodejs) ›
+[Metalsmith](#metalsmith) §
+[**Go**](#go) ›
+[Hugo](#hugo) §
+[**Events / Meetups**](#events--meetups)
 
 
 
 ## General • All Static Site Builders / Generators
+
+[Showcases](#showcases)  •
+[Directories / Listings](#directories--listings) •
+[Articles](#articles) •
+[Books / Booklets](#books--booklets) •
+[More](#more-bookmarks-n-links)
 
 ### News
 
@@ -65,6 +66,9 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ## Ruby
 
+[Jekyll](#jekyll) •
+[Middleman](#middleman)
+
 ### Jekyll
 
 **Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
@@ -79,6 +83,8 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ## JavaScript / Node.js
 
+[Metalsmith](#metalsmith)
+
 ### Metalsmith
 
 **Awesome Metalsmith** (github: [`metalsmith/awesome-metalsmith`](https://github.com/metalsmith/awesome-metalsmith))
@@ -87,6 +93,8 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 
 ## Go
+
+[Hugo](#hugo)
 
 ### Hugo
 
