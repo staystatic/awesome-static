@@ -40,6 +40,14 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ### More Bookmarks 'n' Links
 
+**Awesome Static Website Services** (github: [`aharris88/awesome-static-website-services`](https://github.com/aharris88/awesome-static-website-services))
+
+**Awesome Static Web Site Generators** (github: [`myles/awesome-static-generators`](https://github.com/myles/awesome-static-generators))
+
+**Awesome Markdown** (github: [`writekit/awesome-markdown`](https://github.com/writekit/awesome-markdown))
+
+**{Static is} The New Dynamic** (web: [`thenewdynamic.org`](https://www.thenewdynamic.org)) -- _static site links, showcases, events and more_
+
 
 ## Ruby
 
