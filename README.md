@@ -4,6 +4,26 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+[**General**](#general--all-static-site-builders--generators)
+(
+[Showcases](#showcases)  •  
+[Directories / Listings](#directories--listings) •
+[Articles](#articles) •
+[Books / Booklets](#books--booklets) •
+[More](#more-bookmarks-n-links)
+)
+
+[**Ruby**](#ruby)
+(
+[Jekyll](#jekyll) •
+[Middleman](#middleman)
+)
+
+[**Events / Meetups**](#events--meetups)
+
+
+
+
 
 
 
