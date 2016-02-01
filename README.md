@@ -17,6 +17,14 @@ A collection of awesome static site builder / generator goodies (tools, template
 [Jekyll](#jekyll) •
 [Middleman](#middleman)
 )
+[**JavaScript / Node.js**](#javascript--nodejs)
+(
+[Metalsmith](#metalsmith)
+)
+[**Go**](#go)
+(
+[Hugo](#hugo)
+)
 [**Events / Meetups**](#events--meetups)
 
 
