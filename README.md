@@ -46,12 +46,19 @@ _Static Site User Groups_
 
 Europe
 
-**Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml)) -- @ Vienna, Austria > Central Europe
+@ Vienna, Austria › Central Europe
+
+- **Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml))
 
 America
 
-**Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com)) -- @ San Francisco, California  
-**{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic)) -- @ New York City, New York
+@ San Francisco, California
+
+- **Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com))
+
+@ New York City, New York
+
+- **{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic))
 
 _Move Events_
 
@@ -62,21 +69,31 @@ _Move Events_
 
 ### Jekyll
 
-**Awesome Jekyll**
+**Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
+
+[Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#jekyll)
+
 
 ### Middleman
+
+[Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#middleman)
 
 
 ## JavaScript / Node.js
 
 ### Metalsmith
 
-**Awesome Metalsmith**
+**Awesome Metalsmith** (github: [`metalsmith/awesome-metalsmith`](https://github.com/metalsmith/awesome-metalsmith))
+
+[Metalsmith @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#metalsmith)
 
 
 ## Go
 
 ### Hugo
+
+[Hugo @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#hugo)
+
 
 
 ## Meta
