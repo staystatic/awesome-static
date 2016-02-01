@@ -2,6 +2,8 @@
 
 A collection of awesome static site builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
 
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 
 
 
@@ -24,14 +26,12 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ### Showcases
 
-**Stay Static Samples** (github: [`staystatic`](https://github.com/staystatic)) -- _covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go)_
+**Stay Static Site Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- _covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)_
 
-**Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
+**Adventure Time! Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
 by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)_
 
 
-**Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
-by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)_
 
 ### Directories / Listings
 
@@ -42,12 +42,20 @@ by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), 
 
 ### Events / Meetups
 
+_Static Site User Groups_
+
 Europe
 
-**Vienna.html** (web: [`viennahtml.github.io`](), twitter: [`viennahtml`]()) - Static Site User Group in Austria, Central Europe
+**Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml)) -- @ Vienna, Austria > Central Europe
 
 America
 
+**Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com)) -- @ San Francisco, California  
+**{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic)) -- @ New York City, New York
+
+_Move Events_
+
+[Events Listed @ {Static is} The New Dynamic](https://www.thenewdynamic.org/events)
 
 
 ## Ruby
