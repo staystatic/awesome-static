@@ -1,6 +1,6 @@
 # Awesome Static
 
-A collection of awesome static site builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
+A collection of awesome static (web)site builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
@@ -22,7 +22,7 @@ Table of Contents
 
 ## General 
 
-_All Static Site Builders / Generators_
+_All Static (Web)Site Builders / Generators_
 
 [News](#news) •
 [Directories / Listings](#directories--listings) •
@@ -38,7 +38,7 @@ _Breaking static (web)site builder / generator news_
 
 **Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - _latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more_
 
-**Manuscripts News** (twitter: )[`manuscriptsnews`](https://twitter.com/manuscriptsnews)) - _latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions_
+**Manuscripts News** (twitter: [`manuscriptsnews`](https://twitter.com/manuscriptsnews)) - _latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions_
 
 
 
@@ -56,7 +56,7 @@ _Let a thousand (web)site builder bloom_
 
 ### Showcases
 
-_One sample site, many builds_ 
+_One sample, many static (web)site builds_ 
 
 **Stay Static Site Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- _covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript/Node.js) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)_
 
