@@ -50,7 +50,7 @@ _Let a thousand (web)site builder bloom_
 
 **Static Site Generators** (web: [`staticsitegenerators.net`](https://staticsitegenerators.net))  -- _400+ static site builders / generators; sort by github stars or by programming language and more_
 
-**Static Site Revival** (web: [`static-revival.com/static-site-generators`](https://www.static-revival.com/static-site-generators))
+**Static Site Revival** (web: [`static-revival.com/static-site-generators`](https://www.static-revival.com/static-site-generators/))
 
 
 
