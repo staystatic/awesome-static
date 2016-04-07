@@ -4,15 +4,18 @@ A collection of awesome static site builder / generator goodies (tools, template
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-[**General**](#general) ++
-[**Ruby**](#ruby) ›
-[Jekyll](#jekyll) •
-[Middleman](#middleman) ++
-[**JavaScript / Node.js**](#javascript--nodejs) ›
-[Metalsmith](#metalsmith) ++
-[**Go**](#go) ›
-[Hugo](#hugo) ++
-[**Events / Meetups**](#events--meetups)
+
+Table of Contents
+
+- [**General**](#general)
+- [**Ruby**](#ruby)
+  - [Jekyll](#jekyll)
+  - [Middleman](#middleman)
+- [**JavaScript / Node.js**](#javascript--nodejs)
+  - [Metalsmith](#metalsmith)
+- [**Go**](#go)
+  - [Hugo](#hugo)
+- [**Events / Meetups**](#events--meetups)
 
 
 
@@ -28,27 +31,46 @@ _All Static Site Builders / Generators_
 
 ### News
 
-**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes))
+_Breaking static (web)site builder / generator news_
 
-### Showcases
+**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - latest static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
 
-**Stay Static Site Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- _covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)_
-
-**Adventure Time! Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
-by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)_
 
 
 ### Directories / Listings
+
+_Let a thousand (web)site builder bloom_
 
 **Static Gen** (web: [`staticgen.com`](http://staticgen.com))  -- _top 100+ static site builders / generators; sort by github stars or by programming language and more_
 
 **Static Site Generators** (web: [`staticsitegenerators.net`](https://staticsitegenerators.net))  -- _400+ static site builders / generators; sort by github stars or by programming language and more_
 
+**Static Site Revival** (web: [`static-revival.com/static-site-generators`](https://www.static-revival.com/static-site-generators))
+
+
+
+### Showcases
+
+_One sample site, many builds_ 
+
+**Stay Static Site Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- _covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript/Node.js) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)_
+
+**Adventure Time! Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
+by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)_
+
+
+
 
 ### Articles
 
+[**Which Static Site Generator Should You Choose?**](http://www.remotesynthesis.com/general/2016/04/06/which-static-site-generator-should-i-use) Brian Rinaldi; April 2016 
+
+[**7 Reasons to Use a Static Site Generator**](http://www.sitepoint.com/7-reasons-use-static-site-generator) by Craig Buckler; SitePoint; March 2016 -- _Flexibility, Better Performance, Fewer Server-side Dependencies, Improved Reliability, Superior Security, Client Control Considerations, Version Control and Testing_
+
 [**Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo**](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review)
 by Mathias Biilmann Christensen; Nov 2015 -- _covers Jekyll (Ruby), Middleman (Ruby), Roots (JavaScript/CoffeeScript), Hugo (Go)_
+
+
 
 ### Books / Booklets
 
@@ -61,7 +83,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 **Awesome Static Web Site Generators** (github: [`myles/awesome-static-generators`](https://github.com/myles/awesome-static-generators))
 
-**Awesome Markdown** (github: [`writekit/awesome-markdown`](https://github.com/writekit/awesome-markdown))
+**Awesome Markdown** (github: [`writekit/awesome-markdown`](https://github.com/writekit/awesome-markdown)) - _write your article and posts in plain text with markdown formatting and conventions_
 
 **{Static is} The New Dynamic** (web: [`thenewdynamic.org`](https://www.thenewdynamic.org)) -- _static site links, showcases, events and more_
 
@@ -73,14 +95,14 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 #### Jekyll
 
-**Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
+**Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _a collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
 
-[Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#jekyll)
+[Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/jekyll)
 
 
 #### Middleman
 
-[Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#middleman)
+[Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/middleman)
 
 
 ## JavaScript / Node.js
@@ -93,7 +115,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 **Awesome Metalsmith** (github: [`metalsmith/awesome-metalsmith`](https://github.com/metalsmith/awesome-metalsmith))
 
-[Metalsmith @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#metalsmith)
+[Metalsmith @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/metalsmith)
 
 
 ## Go
@@ -104,7 +126,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 #### Hugo
 
-[Hugo @ {Static is} The New Dynamic](https://www.thenewdynamic.org/links/#hugo)
+[Hugo @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/hugo)
 
 
 
