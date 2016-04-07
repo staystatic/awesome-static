@@ -8,7 +8,7 @@ A collection of awesome static site builder / generator goodies (tools, template
 Table of Contents
 
 - [**General**](#general)
-- By Language
+- [**By Language**](#by-language)
   - [**Ruby**](#ruby)
     - [Jekyll](#jekyll)
     - [Middleman](#middleman)
@@ -36,9 +36,9 @@ _All Static Site Builders / Generators_
 
 _Breaking static (web)site builder / generator news_
 
-**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
+**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - _latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more_
 
-**Manuscripts News** (twitter: )[`manuscriptsnews`](https://twitter.com/manuscriptsnews)) - latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions
+**Manuscripts News** (twitter: )[`manuscriptsnews`](https://twitter.com/manuscriptsnews)) - _latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions_
 
 
 
