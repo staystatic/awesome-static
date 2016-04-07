@@ -8,13 +8,14 @@ A collection of awesome static site builder / generator goodies (tools, template
 Table of Contents
 
 - [**General**](#general)
-- [**Ruby**](#ruby)
-  - [Jekyll](#jekyll)
-  - [Middleman](#middleman)
-- [**JavaScript / Node.js**](#javascript--nodejs)
-  - [Metalsmith](#metalsmith)
-- [**Go**](#go)
-  - [Hugo](#hugo)
+- By Language
+  - [**Ruby**](#ruby)
+    - [Jekyll](#jekyll)
+    - [Middleman](#middleman)
+  - [**JavaScript / Node.js**](#javascript--nodejs)
+    - [Metalsmith](#metalsmith)
+  - [**Go**](#go)
+    - [Hugo](#hugo)
 - [**Events / Meetups**](#events--meetups)
 
 
@@ -23,17 +24,21 @@ Table of Contents
 
 _All Static Site Builders / Generators_
 
-[Showcases](#showcases)  •
+[News](#news) •
 [Directories / Listings](#directories--listings) •
+[Showcases](#showcases)  •
 [Articles](#articles) •
 [Books / Booklets](#books--booklets) •
 [More](#more-bookmarks-n-links)
+
 
 ### News
 
 _Breaking static (web)site builder / generator news_
 
-**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - latest static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
+**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) - latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
+
+**Manuscripts News** (twitter: )[`manuscriptsnews`](https://twitter.com/manuscriptsnews)) - latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions
 
 
 
@@ -88,7 +93,14 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 **{Static is} The New Dynamic** (web: [`thenewdynamic.org`](https://www.thenewdynamic.org)) -- _static site links, showcases, events and more_
 
 
-## Ruby
+## By Language
+
+[**Ruby**](#ruby) •
+[**JavaScript / Node.js**](#javascript--nodejs) •
+[**Go**](#go)
+
+
+### Ruby
 
 [Jekyll](#jekyll) •
 [Middleman](#middleman)
@@ -105,7 +117,8 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 [Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/middleman)
 
 
-## JavaScript / Node.js
+
+### JavaScript / Node.js
 
 <!--
 [Metalsmith](#metalsmith)
@@ -118,7 +131,8 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 [Metalsmith @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/metalsmith)
 
 
-## Go
+
+### Go
 
 <!--
 [Hugo](#hugo)
@@ -133,7 +147,7 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ## Events / Meetups
 
-_Static Site User Groups_
+_Static (Web)Site Builder & Designer User Groups_
 
 Europe
 
