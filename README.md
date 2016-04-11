@@ -70,7 +70,7 @@ by Brian Rinaldi -- _covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), 
 
 [**Which Static Site Generator Should You Choose?**](http://www.remotesynthesis.com/general/2016/04/06/which-static-site-generator-should-i-use) Brian Rinaldi; April 2016 
 
-[**7 Reasons to Use a Static Site Generator**](http://www.sitepoint.com/7-reasons-use-static-site-generator) by Craig Buckler; SitePoint; March 2016 -- _Flexibility, Better Performance, Fewer Server-side Dependencies, Improved Reliability, Superior Security, Client Control Considerations, Version Control and Testing_
+[**Seven Reasons to Use a Static Site Generator**](http://www.sitepoint.com/7-reasons-use-static-site-generator) by Craig Buckler; SitePoint; March 2016 -- _Flexibility, Better Performance, Fewer Server-side Dependencies, Improved Reliability, Superior Security, Client Control Considerations, Version Control and Testing_
 
 [**Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo**](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review)
 by Mathias Biilmann Christensen; Nov 2015 -- _covers Jekyll (Ruby), Middleman (Ruby), Roots (JavaScript/CoffeeScript), Hugo (Go)_
