@@ -96,30 +96,47 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 ## By Language
 
 [**Ruby**](#ruby) •
+[**Python**](#python) •
 [**JavaScript / Node.js**](#javascript--nodejs) •
 [**Go**](#go)
 
 
 ### Ruby
 
-Big Three
+Big Five
 
 1. [**Jekyll**](https://github.com/jekyll/jekyll) ★24,888  (gem: [`jekyll`](https://rubygems.org/gems/jekyll) ⇓2,196,090)
 2. [**Middleman**](https://github.com/middleman/middleman) ★5,118  (gem: [`middleman`](https://rubygems.org/gems/middleman) ⇓1,035,325)
-3. [**Nanoc**](https://github.com/nanoc/nanoc) ★1,347 (gem: [`nanoc`](https://rubygems.org/gems/nanoc) ⇓233,529)
+3. [**Nanoc**](https://github.com/nanoc/nanoc) ★1,347  (gem: [`nanoc`](https://rubygems.org/gems/nanoc) ⇓233,529)
+4. [**Awestruct**](https://github.com/awestruct/awestruct) ★226 (gem: [`awestruct`](https://rubygems.org/gems/awestruct) ⇓139,452)
+5. [**webgen**](https://github.com/gettalong/webgen) ★90 (gem: [`webgen`](https://rubygems.org/gems/webgen) ⇓90,154)
 
+Note: Not listed if no update +1 year e.g.
+[Statis](https://github.com/winton/stasis) ★715 (Nov 2013; gem v0.2.0 - Jan 2013),
+[Ruhoh](https://github.com/ruhoh/ruhoh.rb) ★627 (Sep 2014; gem v2.6 - Dec 2013),
+[~~Webby~~](https://github.com/TwP/webby) ★278 (officially discontinued, Aug 2011; v0.9.4 - Apr 2009)
 
-#### Jekyll
+<!-- Octopress v3 (1st gem version) - still beta; no longer developed ?? ->
+
+<!-- todo: add gem version w/ latest release date ?? -->
+
+Links
 
 **Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- a collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 [Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/jekyll)
-
-
-#### Middleman
-
 [Middleman @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/middleman)
 
+
+### Python
+
+Big Five
+
+1. [**Pelican**](https://github.com/getpelican/pelican) ★5,687  (pypi: [`pelican`](https://pypi.python.org/pypi/pelican) ⇓9,395/month)
+2. [**Nikola**](https://github.com/getnikola/nikola) ★979  (pypi: [`Nikola`](https://pypi.python.org/pypi/Nikola) ⇓4,360/month)
+3. [**Cactus**](https://github.com/koenbok/Cactus) ★2,704  (pypi: [`Cactus`](https://pypi.python.org/pypi/Cactus) ⇓1,623/month)
+4. [**Lektor**](https://github.com/lektor/lektor) ★1,732  (pypi: [`Lektor`](https://pypi.python.org/pypi/Lektor) ⇓1,519/month)
+5. [**hyde**](https://github.com/hyde/hyde) ★1,278  (pypi: [`hyde`](https://pypi.python.org/pypi/hyde) ⇓1,013/month)
 
 
 ### JavaScript / Node.js
