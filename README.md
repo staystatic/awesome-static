@@ -102,12 +102,16 @@ by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- _covers Jekyl
 
 ### Ruby
 
-[Jekyll](#jekyll) •
-[Middleman](#middleman)
+Big Three
+
+1. [**Jekyll**](https://github.com/jekyll/jekyll) ★24,888  (gem: [`jekyll`](https://rubygems.org/gems/jekyll) ⇓2,196,090)
+2. [**Middleman**](https://github.com/middleman/middleman) ★5,118  (gem: [`middleman`](https://rubygems.org/gems/middleman) ⇓1,035,325)
+3. [**Nanoc**](https://github.com/nanoc/nanoc) ★1,347 (gem: [`nanoc`](https://rubygems.org/gems/nanoc) ⇓233,529)
+
 
 #### Jekyll
 
-**Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- _a collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
+**Awesome Jekyll** (github: [`planetjekyll/awesome-jekyll`](https://github.com/planetjekyll/awesome-jekyll)) -- a collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 [Jekyll @ {Static is} The New Dynamic](https://www.thenewdynamic.org/tool/jekyll)
 
