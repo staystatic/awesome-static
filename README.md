@@ -169,7 +169,9 @@ Links
 
 1. [**JBake**](https://github.com/jbake-org/jbake) ★392
 
-### .NET/C\#
+### .NET / C-Sharp
+
+<!-- check: cannot handle c# in markdown? -->
 
 1. [**Pretzel**](https://github.com/Code52/pretzel) ★443
 
