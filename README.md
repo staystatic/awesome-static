@@ -169,7 +169,7 @@ Links
 
 1. [**JBake**](https://github.com/jbake-org/jbake) ★392
 
-### .NET/C#
+### .NET/C\#
 
 1. [**Pretzel**](https://github.com/Code52/pretzel) ★443
 
