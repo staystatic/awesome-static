@@ -125,9 +125,15 @@ Links
 4. [**Lektor**](https://github.com/lektor/lektor) ★1,732  (pypi: [`Lektor`](https://pypi.python.org/pypi/Lektor) ⇓1,519/month)
 5. [**Hyde**](https://github.com/hyde/hyde) ★1,278  (pypi: [`hyde`](https://pypi.python.org/pypi/hyde) ⇓1,013/month)
 
+
 ### PHP
 
 1. [**Sculpin**](https://github.com/sculpin/sculpin) ★952  (composer: [`sculpin/sculpin`](https://packagist.org/packages/sculpin/sculpin) ⇓13,312) 
+2. [**Jigsaw**](https://github.com/tightenco/jigsaw) ★370  (composer: [`tightenco/jigsaw`](https://packagist.org/packages/tightenco/jigsaw) ⇓327)
+
+<!-- minor - check back later
+ [**Handle**](https://github.com/gilbitron/Handle) ★10
+ -->
 
 
 ### JavaScript / Node.js
