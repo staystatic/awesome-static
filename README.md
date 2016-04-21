@@ -127,7 +127,7 @@ Links
 
 ### PHP
 
-1. [**Sculpin**](https://github.com/sculpin/sculpin) ★952  
+1. [**Sculpin**](https://github.com/sculpin/sculpin) ★952  (composer: [`sculpin/sculpin`](https://packagist.org/packages/sculpin/sculpin) ⇓13,312) 
 
 
 ### JavaScript / Node.js
@@ -135,7 +135,7 @@ Links
 1. [**Hexo**](https://github.com/hexojs/hexo) ★9,610 (npm: [`hexo`](https://www.npmjs.com/package/hexo) ⇓15,792/month) 
 2. [**Metalsmith**](https://github.com/metalsmith/metalsmith) ★4,692 (npm: [`metalsmith`](https://www.npmjs.com/package/metalsmith) ⇓22,053/month)
 3. [**Harp**](https://github.com/sintaxi/harp) ★3,782 (npm: [`harp`](https://www.npmjs.com/package/harp) ⇓8,015/month)
-4. [**Wintersmith](https://github.com/jnordberg/wintersmith) ★2,806 (npm: [`wintersmith`](https://www.npmjs.com/package/wintersmith) ⇓2,971/month)
+4. [**Wintersmith**](https://github.com/jnordberg/wintersmith) ★2,806 (npm: [`wintersmith`](https://www.npmjs.com/package/wintersmith) ⇓2,971/month)
 5. [**Gatsby**](https://github.com/gatsbyjs/gatsby) ★2,650 (npm: [`gatsby`](https://www.npmjs.com/package/gatsby) ⇓2,898/month)
 
 
@@ -149,6 +149,9 @@ Links
 ### Go
 
 1. [**Hugo**](https://github.com/spf13/hugo) ★9,476
+2. [**gor**](https://github.com/wendal/gor) ★472
+3. [**Ink**](https://github.com/InkProject/ink) ★336
+4. [**gostatic**](https://github.com/piranha/gostatic) ★298
 
 Links
 
@@ -157,7 +160,27 @@ Links
 
 ### Haskell
 
-1. [**Hakyll**](https://github.com/jaspervdj/hakyll) ★1,228
+1. [**Hakyll**](https://github.com/jaspervdj/hakyll) ★1,228 (hackage: [`hakyll`](https://hackage.haskell.org/package/hakyll) ⇓33,613)
+2. [**yst**](https://github.com/jgm/yst) ★198 (hackage: [`yst`](https://hackage.haskell.org/package/yst) ⇓3,745)
+
+
+
+### Java
+
+1. [**JBake**](https://github.com/jbake-org/jbake) ★392
+
+### .NET/C#
+
+1. [**Pretzel**](https://github.com/Code52/pretzel) ★443
+
+
+### Lua
+
+1. [**Luapress**](https://github.com/Fizzadar/Luapress) ★101 (luarocks: [`fizzadar/luapress`](https://luarocks.org/modules/fizzadar/luapress) ⇓211)
+
+### Erlang
+
+1. [**Lambda Pad**](https://github.com/gar1t/lambdapad) ★84
 
 
 
