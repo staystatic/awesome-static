@@ -192,7 +192,7 @@ Links
 
 
 
-## HTML Test / Proofer
+## HTML Tester / Checker / Linter / Proofer
 
 [**htmltest**](https://github.com/wjdp/htmltest) ★20 -- html test tool (in go)
 
