@@ -1,6 +1,6 @@
 # Awesome Static
 
-A collection of awesome static (web)site builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
+A collection of awesome static website compiler / builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
@@ -21,7 +21,7 @@ Table of Contents
 
 ## General 
 
-_All Static (Web)Site Builders / Generators_
+_All Static Website Compilers / Builders / Generators_
 
 [News](#news) •
 [Directories / Listings](#directories--listings) •
@@ -30,19 +30,25 @@ _All Static (Web)Site Builders / Generators_
 [Books / Booklets](#books--booklets)
 
 
+<!--
+
+note: statictimes is now awesomejekyll - what to do with this section - keep it with single entry etc.??
+
 ### News
 
-_Breaking static (web)site builder / generator news_
+_Breaking static website compiler / builder / generator news_
 
 **Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) -- latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
 
 **Manuscripts News** (twitter: [`manuscriptsnews`](https://twitter.com/manuscriptsnews)) -- latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions
 
+-->
+
 
 
 ### Directories / Listings
 
-_Let a thousand (web)site builder bloom_
+_Let a thousand website compiler bloom_
 
 **Static Gen** (web: [`staticgen.com`](http://staticgen.com))  -- top 100+ static site builders / generators; sort by github stars or by programming language and more
 
@@ -54,11 +60,11 @@ _Let a thousand (web)site builder bloom_
 
 ### Showcases
 
-_One sample, many static (web)site builds_ 
+_One sample, many static website builds_ 
 
-**Stay Static Site Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript/Node.js) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)
+**Stay Static Website Compiler Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript/Node.js) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)
 
-**Adventure Time! Static Site Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
+**Adventure Time! Static Website Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
 by Brian Rinaldi -- covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)
 
 
