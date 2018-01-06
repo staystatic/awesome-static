@@ -23,27 +23,8 @@ Table of Contents
 
 _All Static Website Compilers / Builders / Generators_
 
-[News](#news) •
 [Directories / Listings](#directories--listings) •
-[Showcases](#showcases)  •
-[Articles](#articles) •
-[Books / Booklets](#books--booklets)
-
-
-<!--
-
-note: statictimes is now awesomejekyll - what to do with this section - keep it with single entry etc.??
-
-### News
-
-_Breaking static website compiler / builder / generator news_
-
-**Static Times** (twitter: [`statictimes`](https://twitter.com/statictimes)) -- latest news bytes about static site builder / generator tools, themes, talks, meetups, Q&As 'n' more
-
-**Manuscripts News** (twitter: [`manuscriptsnews`](https://twitter.com/manuscriptsnews)) -- latest news bytes about writing posts, articles, presentations, books, etc. in plain text w/ markdown formatting and conventions
-
--->
-
+[Showcases](#showcases)
 
 
 ### Directories / Listings
@@ -53,8 +34,6 @@ _Let a thousand website compiler bloom_
 **Static Gen** (web: [`staticgen.com`](http://staticgen.com))  -- top 100+ static site builders / generators; sort by github stars or by programming language and more
 
 **Static Site Generators** (web: [`staticsitegenerators.net`](https://staticsitegenerators.net))  -- 400+ static site builders / generators; sort by github stars or by programming language and more
-
-**Static Site Revival** (web: [`static-revival.com/static-site-generators`](https://www.static-revival.com/static-site-generators/))
 
 
 
@@ -67,24 +46,6 @@ _One sample, many static website builds_
 **Adventure Time! Static Website Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
 by Brian Rinaldi -- covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)
 
-
-
-
-### Articles
-
-[**Which Static Site Generator Should You Choose?**](http://www.remotesynthesis.com/general/2016/04/06/which-static-site-generator-should-i-use) Brian Rinaldi; April 2016 
-
-[**Seven Reasons to Use a Static Site Generator**](http://www.sitepoint.com/7-reasons-use-static-site-generator) by Craig Buckler; SitePoint; March 2016 -- Flexibility, Better Performance, Fewer Server-side Dependencies, Improved Reliability, Superior Security, Client Control Considerations, Version Control and Testing
-
-[**Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo**](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review)
-by Mathias Biilmann Christensen; Nov 2015 -- covers Jekyll (Ruby), Middleman (Ruby), Roots (JavaScript/CoffeeScript), Hugo (Go)
-
-
-
-### Books / Booklets
-
-[**Static Site Generators: Modern Tools for Static Website Development**](http://www.oreilly.com/web-platform/free/static-site-generators.csp)
-by Brian Rinaldi; Free O'Reilly E-Booklet; Sept 2015; 60+ Pages -- covers Jekyll (Ruby), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)
 
 
 ## By Language
@@ -213,27 +174,6 @@ Links
 
 **{Static is} The New Dynamic** (web: [`thenewdynamic.org`](https://www.thenewdynamic.org)) -- static site links, showcases, events and more
 
-
-
-## Events / Meetups
-
-_Static (Web)Site Builder & Designer User Groups_
-
-Europe
-
-- @ Vienna, Austria › Central Europe
-   - **Vienna.html** (web: [`viennahtml.github.io`](http://viennahtml.github.io), twitter: [`viennahtml`](https://twitter.com/viennahtml))
-
-America
-
-- @ San Francisco, California
-   - **Static Web Tech** (web: [`staticwebtech.com`](http://www.staticwebtech.com))
-- @ New York City, New York
-   - **{static is} The New Dynamic** (meetup: [`The-New-Dynamic`](http://meetup.com/The-New-Dynamic))
-
-_Move Events_
-
-[Events Listed @ {Static is} The New Dynamic](https://www.thenewdynamic.org/events)
 
 
 ## Meta
