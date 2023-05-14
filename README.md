@@ -8,6 +8,7 @@ A collection of awesome static website compiler / builder / generator goodies (t
 Table of Contents
 
 - [**General**](#general)
+- [**Quick References (Cheat Sheets)**](#quickrefs)
 - [**By Language**](#by-language)
   - [**Ruby**](#ruby)
   - [**Python**](#python)
@@ -19,7 +20,7 @@ Table of Contents
 
 
 
-## General 
+## General
 
 _All Static Website Compilers / Builders / Generators_
 
@@ -39,12 +40,20 @@ _Let a thousand website compiler bloom_
 
 ### Showcases
 
-_One sample, many static website builds_ 
+_One sample, many static website builds_
 
 **Stay Static Website Compiler Samples** (web: [`staystatic.github.io`](http://staystatic.github.io), github: [`staystatic`](https://github.com/staystatic)) -- covers Jekyll (Ruby), Middleman (Ruby), Hugo (Go), Metalsmith (JavaScript/Node.js) and others; showing how to use pages, posts and custom types (e.g. bookmarks 'n' links)
 
 **Adventure Time! Static Website Samples** (github: [`remotesynth/Static-Site-Samples`](https://github.com/remotesynth/Static-Site-Samples))
 by Brian Rinaldi -- covers Jekyll (Ruby), Middleman (Ruby), Harp (JavaScript), Hexo (JavaScript), Wintersmith (JavaScript/CoffeeScript), Hugo (Go)
+
+
+
+## Quick References (Cheat Sheets)
+
+- [Gatsby Quick Reference (Cheat Sheet)](GATSBY.md)
+- [Hugo Quick Reference (Cheat Sheet)](HUGO.md)
+
 
 
 
@@ -95,7 +104,7 @@ Links
 
 ### PHP
 
-1. [**Sculpin**](https://github.com/sculpin/sculpin) ★952  (composer: [`sculpin/sculpin`](https://packagist.org/packages/sculpin/sculpin) ⇓13,312) 
+1. [**Sculpin**](https://github.com/sculpin/sculpin) ★952  (composer: [`sculpin/sculpin`](https://packagist.org/packages/sculpin/sculpin) ⇓13,312)
 2. [**Jigsaw**](https://github.com/tightenco/jigsaw) ★370  (composer: [`tightenco/jigsaw`](https://packagist.org/packages/tightenco/jigsaw) ⇓327)
 
 <!-- minor - check back later
@@ -105,7 +114,7 @@ Links
 
 ### JavaScript / Node.js
 
-1. [**Hexo**](https://github.com/hexojs/hexo) ★9,610 (npm: [`hexo`](https://www.npmjs.com/package/hexo) ⇓15,792/month) 
+1. [**Hexo**](https://github.com/hexojs/hexo) ★9,610 (npm: [`hexo`](https://www.npmjs.com/package/hexo) ⇓15,792/month)
 2. [**Metalsmith**](https://github.com/metalsmith/metalsmith) ★4,692 (npm: [`metalsmith`](https://www.npmjs.com/package/metalsmith) ⇓22,053/month)
 3. [**Harp**](https://github.com/sintaxi/harp) ★3,782 (npm: [`harp`](https://www.npmjs.com/package/harp) ⇓8,015/month)
 4. [**Wintersmith**](https://github.com/jnordberg/wintersmith) ★2,806 (npm: [`wintersmith`](https://www.npmjs.com/package/wintersmith) ⇓2,971/month)
