@@ -100,6 +100,7 @@ Links
 3. [**Cactus**](https://github.com/koenbok/Cactus) ★2,704  (pypi: [`Cactus`](https://pypi.python.org/pypi/Cactus) ⇓1,623/month)
 4. [**Lektor**](https://github.com/lektor/lektor) ★1,732  (pypi: [`Lektor`](https://pypi.python.org/pypi/Lektor) ⇓1,519/month)
 5. [**Hyde**](https://github.com/hyde/hyde) ★1,278  (pypi: [`hyde`](https://pypi.python.org/pypi/hyde) ⇓1,013/month)
+6. [**Bengal**](https://github.com/lbliii/bengal) ★33  (pypi: [`bengal`](https://pypi.org/project/bengal/))
 
 
 ### PHP
